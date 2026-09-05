@@ -1,10 +1,10 @@
 # Introduction
 📊 What actually makes a song popular on Spotify? This project digs into 🎧 the audio features that separate hits from the rest, 🎼 which genres consistently outperform, and 🗣️ whether explicit content or spoken-word tracks move the needle on popularity.
 
-🔍 The full Power BI file is in [spotify_project.pbix](/spotify_project.pbix), and a static export is in [spotify-dashboard.pdf](/spotify-dashboard.pdf).
+🔍 The full Power BI file is in [spotify_project.pbix](/spotify_project.pbix).
 
 # Background
-This project uses the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) (Kaggle) — 114,000 tracks across 114 genres, with popularity scores, 9 audio features, genre, and explicit flags.
+This project uses the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) (Kaggle) — 114,000 tracks across 114 genres, with popularity scores, 9 audio features, genre, and explicit flags. The raw dataset is included in this repo as [spotify-tracks-dataset-detailed.csv](/spotify-tracks-dataset-detailed.csv).
 
 I wanted to go beyond a single chart and actually investigate the question from a few different angles: audio characteristics, genre, and content type — and be honest about what the data does and doesn't support along the way.
 
